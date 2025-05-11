@@ -1,6 +1,4 @@
 server:   
   port: 8762
 foo: foo version 10
-"config.client.version",
 
-"message"
